@@ -1,4 +1,4 @@
-# Analyzing and Visualizing Data in Real Time for Operational Efficiency in Mas-More Ventures PLC
+# Analyzing and Visualizing Data in Real Time for Operational Efficiency in Mas-More Manufacturing Ventures PLC
 This project involved gaining hands-on experience with Power BI to enhance operational efficiency in a manufacturing company. My role encompassed collecting, transforming, and analyzing data to identify areas for improvement. Using Power BI, I created interactive, real-time dashboards and reports that provided actionable insights to decision-makers, demonstrating the tool's capacity to drive significant business enhancements through data-driven analysis.
 
 ### Problem Statement
